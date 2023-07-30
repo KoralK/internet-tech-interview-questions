@@ -75,8 +75,114 @@
         "question": "What is the highest level of the domain name hierarchy called?",
         "options": ["Root domain", "Top-level domain", "Primary domain", "Base domain"],
         "answers": [1]
+    },
+    {
+        "question": "What does DHCP stand for?",
+        "options": ["Dynamic Host Configuration Protocol", "Dynamic Host Control Protocol", "Dynamic Hyper Control Protocol", "Dynamic Hyper Configuration Protocol"],
+        "answers": [0]
+    },
+    {
+        "question": "What is the primary purpose of DHCP?",
+        "options": ["To assign IP addresses automatically", "To encrypt data transmission", "To translate domain names to IP addresses", "To monitor network traffic"],
+        "answers": [0]
+    },
+    {
+        "question": "What are the four steps of DHCP lease process?",
+        "options": ["Discover, Offer, Request, Acknowledge", "Request, Discover, Acknowledge, Offer", "Offer, Acknowledge, Request, Discover", "Discover, Request, Offer, Acknowledge"],
+        "answers": [0]
+    },
+    {
+        "question": "Can DHCP provide clients with a DNS server address?",
+        "options": ["Yes", "No"],
+        "answers": [0]
+    },
+    {
+        "question": "What does a DHCP Relay Agent do?",
+        "options": ["It relays data between clients and servers", "It assigns IP addresses", "It manages network traffic", "It translates domain names into IP addresses"],
+        "answers": [0]
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "options": ["HyperText Transfer Protocol", "Hyper Transfer Text Protocol", "HyperText Testing Protocol", "Hyper Transfer Testing Protocol"],
+        "answers": [0]
+    },
+    {
+        "question": "What is the default port for HTTP?",
+        "options": ["80", "443", "20", "22"],
+        "answers": [0]
+    },
+    {
+        "question": "What is HTTP/2?",
+        "options": ["An updated version of HTTP", "A deprecated version of HTTP", "An alternative to HTTP", "A protocol for secure data transmission"],
+        "answers": [0]
+    },
+    {
+        "question": "What does the HTTP 404 status code mean?",
+        "options": ["Server error", "Forbidden", "Not found", "OK"],
+        "answers": [2]
+    },
+    {
+        "question": "What does HTTP do?",
+        "options": ["It manages network traffic", "It assigns IP addresses", "It defines how messages are formatted and transmitted on the World Wide Web", "It provides secure encrypted communications"],
+        "answers": [2]
+    },
+    {
+        "question": "What does SSH stand for?",
+        "options": ["Secure Shell", "Secure Socket Hole", "Secure Server Hole", "Safe Shell"],
+        "answers": [0]
+    },
+    {
+        "question": "What is the default port for SSH?",
+        "options": ["22", "23", "443", "80"],
+        "answers": [0]
+    },
+    {
+        "question": "What is SSH primarily used for?",
+        "options": ["Web browsing", "Managing networks", "Encrypting and sending email", "Secure remote administration of systems"],
+        "answers": [3]
+    },
+    {
+        "question": "Is SSH encrypted?",
+        "options": ["Yes", "No"],
+        "answers": [0]
+    },
+    {
+        "question": "What is the command to connect to a server using SSH?",
+        "options": ["ssh user@hostname", "connect ssh user@hostname", "ssh connect user@hostname", "hostname user@ssh"],
+        "answers": [0]
+    },
+    {
+        "question": "What does LDAP stand for?",
+        "options": ["Lightweight Directory Access Protocol", "List Directory Access Protocol", "Lightweight Data Access Protocol", "List Data Access Protocol"],
+        "answers": [0]
+    },
+    {
+        "question": "What is the main use of LDAP?",
+        "options": ["Data encryption", "IP addressing", "Storing and accessing hierarchical data over a network", "Translating domain names into IP addresses"],
+        "answers": [2]
+    },
+    {
+        "question": "What information does LDAP store?",
+        "options": ["User names and passwords", "Network traffic data", "IP addresses and domain names", "All of the above"],
+        "answers": [0]
+    },
+    {
+        "question": "What is the structure of data in LDAP called?",
+        "options": ["Tree", "Graph", "Stack", "Queue"],
+        "answers": [0]
+    },
+    {
+        "question": "Does LDAP support authentication and authorization?",
+        "options": ["Yes", "No"],
+        "answers": [0]
     }
     ]
+    
+    
+    
+    
+    
+    
     
     
     
