@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What does TCP stand for?",
+        "options": ["Transmission Control Protocol", "Transmission Command Protocol", "Transfer Control Protocol", "Transfer Command Protocol"],
+        "answers": [0]
+    },
+    {
+        "question": "How does TCP handle lost packets?",
+        "options": ["It doesn't", "It requests retransmission", "It ignores them", "It ends the connection"],
+        "answers": [1]
+    },
+    {
+        "question": "Does TCP offer error checking mechanism?",
+        "options": ["Yes", "No"],
+        "answers": [0]
+    },
+    {
+        "question": "What is a 3-way handshake in TCP?",
+        "options": ["SYN, ACK, SYN-ACK", "SYN, SYN-ACK, ACK", "ACK, SYN, SYN-ACK", "ACK, ACK, ACK"],
+        "answers": [1]
+    },
+    {
+        "question": "What does the TCP PUSH flag signal?",
+        "options": ["Start of Transmission", "End of Transmission", "Immediate delivery of packet", "None of the above"],
+        "answers": [2]
+    },
+    
+    {
+        "question": "What does UDP stand for?",
+        "options": ["Unilateral Data Protocol", "Universal Data Protocol", "User Datagram Protocol", "Uniform Datagram Protocol"],
+        "answers": [2]
+    },
+    {
+        "question": "Is UDP connection-oriented?",
+        "options": ["Yes", "No"],
+        "answers": [1]
+    },
+    {
+        "question": "Does UDP guarantee delivery of packets?",
+        "options": ["Yes", "No"],
+        "answers": [1]
+    },
+    {
+        "question": "Does UDP support broadcasting?",
+        "options": ["Yes", "No"],
+        "answers": [0]
+    },
+    {
+        "question": "Does UDP provide error checking mechanism?",
+        "options": ["Yes", "No"],
+        "answers": [0]
+    },
+    
+    {
+        "question": "What does DNS stand for?",
+        "options": ["Data Name System", "Domain Name System", "Domain Number System", "Data Number System"],
+        "answers": [1]
+    },
+    {
+        "question": "What is the main purpose of DNS?",
+        "options": ["To translate domain names to IP addresses", "To provide security to websites", "To monitor traffic on the internet", "To store data on the cloud"],
+        "answers": [0]
+    },
+    {
+        "question": "What is a DNS query?",
+        "options": ["A request for a website's IP address", "A request for a website's security certificate", "A request for a website's server location", "A request for a website's content"],
+        "answers": [0]
+    },
+    {
+        "question": "What does a DNS resolver do?",
+        "options": ["Stores domain names and their corresponding IP addresses", "Responds to user requests for web pages", "Translates domain names to IP addresses", "Transmits data over the internet"],
+        "answers": [2]
+    },
+    {
+        "question": "What is the highest level of the domain name hierarchy called?",
+        "options": ["Root domain", "Top-level domain", "Primary domain", "Base domain"],
+        "answers": [1]
+    }
+    ]
+    
+    
+    
